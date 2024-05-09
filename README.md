@@ -36,6 +36,12 @@ To explore the project:
 1. Clone the repository.
 2. Review the Jupyter notebooks in the `Notebook-Twitter_Financial_News_Classification` notebook for detailed steps.
 
+## Collaborators
+- Viktoriia Yuzkiv
+- Angelo Di Gianvito
+- Edward Monbiot
+- Rui Maciel
+
 --- 
 
 For further details and usage instructions, refer to the complete report and project documentation.
